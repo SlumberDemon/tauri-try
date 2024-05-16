@@ -26,3 +26,5 @@ when running `cargo tauri dev` there may be an error on first open, the api back
 ### screenshot
 
 ![screenshot](screenshot.png)
+
+> window is transparent
